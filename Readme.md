@@ -35,7 +35,7 @@ The following .NET Core and .NET Framework examples create a typical data model 
     - [ASP.NET](https://github.com/DevExpress-Examples/XPO_how-to-implement-odata4-service-with-xpo)
     - [ASP.NET Core](https://github.com/DevExpress-Examples/XPO_how-to-implement-odata4-service-with-xpo-netcore)
     - [ASP.NET Core with XAF Security System](https://github.com/DevExpress-Examples/XAF_how-to-use-the-integrated-mode-of-the-security-system-in-non-xaf-applications-e4908/tree/19.2.6%2B/ASP.NetCore/DevExtreme.OData?utm_source=DevExpress&utm_medium=Website&utm_campaign=XAF&utm_content=XAF_Security_NonXAF_Series_2)
-* [How to Create API Controllers for an ASP.NET Core MVC Application](xref:401035#xpo-data-model)
+* [How to Create API Controllers for an ASP.NET Core MVC Application](https://docs.devexpress.com/AspNetCore/401035/devextreme-based-controls/concepts/scaffolding#xpo-data-model)
 
 
 ### Using XPO in Desktop Applications
